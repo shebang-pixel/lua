@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class WeatherModel {
 //   Defines how API data will look in our app
 final double temperature;
